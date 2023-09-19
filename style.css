@@ -1,0 +1,29 @@
+body{
+    background-image : url('asset/background.jpg');
+    background-attachment: fixed;
+    background-size:cover;
+}
+
+.hero{
+    background-color:rgba(255, 255, 255, 0.5);
+    width:750px;
+    height:450px;
+    margin-top:100px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:5px;
+}
+.result-solar{
+    margin-top: 20px;
+    background-color:rgba(0, 0, 0, 0.5);
+    width: 550px;
+    height : 300px;
+    padding-top:30px;
+}
+.mass-planet{
+    width:700px;
+}
+.result-img{
+    width:250px;
+}
+
